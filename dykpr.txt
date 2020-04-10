@@ -8,6 +8,7 @@
 ||ocsp2.globalsign.com
 ||res.hanju.koudaibaobao.com/hj_avthumb*
 ||img1.360buyimg.com
+||pstatp.com
 #电视广告域名：
 ||ad.xiaomi.com
 ||ad1.xiaomi.com
@@ -211,3 +212,5 @@ torrentmaps.com##.hd_pops
 #cm-advmob
 ||bigdata.advmob.cn
 ||folder.advmob.cn
+
+||dsp.toutiao.com
