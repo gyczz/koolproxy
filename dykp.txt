@@ -1,14 +1,14 @@
 
-#×Ô¶¨Òå¹ã¸æ¹ıÂË¹æÔòby larry
+#è‡ªå®šä¹‰å¹¿å‘Šè¿‡æ»¤è§„åˆ™by larry
 
-#º«¾çTV
+#éŸ©å‰§TV
 ||static.hanju.koudaibaobao.com/img/*.mp4
 ||pstatp.com
 ||ad.bayescom.com
 ||ocsp2.globalsign.com
 ||res.hanju.koudaibaobao.com/hj_avthumb*
 ||img1.360buyimg.com
-#µçÊÓ¹ã¸æÓòÃû£º
+#ç”µè§†å¹¿å‘ŠåŸŸåï¼š
 ||ad.xiaomi.com
 ||ad1.xiaomi.com
 ||ad.mi.com
@@ -50,7 +50,7 @@
 ||new.api.ad.xiaomi.com
 ||api.ad.xiaomi.com
 ||o2o.api.xiaomi.com
-#Í¶ÆÁ¹ã¸æÓòÃû£º
+#æŠ•å±å¹¿å‘ŠåŸŸåï¼š
 ||sdkauth.hpplay.cn
 ||adeng.hpplay.cn
 ||ad.hpplay.cn
