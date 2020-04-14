@@ -12,6 +12,7 @@
 ||cpic.fancydsp.com
 ||fancyapi.com
 ||v.admaster.com.cn
+||qiyipic.com
 #电视广告域名：
 ||ad.xiaomi.com
 ||ad1.xiaomi.com
