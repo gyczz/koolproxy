@@ -10,6 +10,8 @@
 ||img1.360buyimg.com
 ||pstatp.com
 ||cpic.fancydsp.com
+||fancyapi.com
+||v.admaster.com.cn
 #电视广告域名：
 ||ad.xiaomi.com
 ||ad1.xiaomi.com
