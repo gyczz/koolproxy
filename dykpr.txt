@@ -2,7 +2,7 @@
 #自定义广告过滤规则by larry
 
 #韩剧TV
-||static.hanju.koudaibaobao.com/img/pub/*.mp4
+||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
 ||pstatp.com
 ||ad.bayescom.com
 ||ocsp2.globalsign.com
