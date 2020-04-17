@@ -218,3 +218,9 @@ torrentmaps.com##.hd_pops
 ||folder.advmob.cn
 
 ||dsp.toutiao.com
+||s.lofv.xyz
+||alicdn.com
+||puui.qpic.cn
+98tang.me##.show-text2
+98tang.me##.h10
+98tang.me##.js-randomBg
