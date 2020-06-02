@@ -224,3 +224,6 @@ torrentmaps.com##.hd_pops
 98tang.me##.show-text2
 98tang.me##.h10
 98tang.me##.js-randomBg
+
+||lmbsy.qq.com
+||vhotwsh.video.qq.com
