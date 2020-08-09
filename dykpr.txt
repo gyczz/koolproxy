@@ -2,7 +2,7 @@
 #自定义广告过滤规则by larry
 
 #爱奇艺
-||tcqcloudcdnct.inter.ptqy.gitv.tv^
+||tcqcloudcdnct.inter.ptqy.gitv.tv
 
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
