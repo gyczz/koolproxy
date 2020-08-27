@@ -138,6 +138,11 @@
 ||hp.smiler-ad.com
 ||static8.pmadx.com
 
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@e,"disable"@e,""@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@,"youku_vip_pay_btn"),n@,""),n@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@var r="VIP";@var r="No vip";@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@disable youku_vip_pay_btn@@
+
 #爱奇艺
 ||tcqcloudcdnct.inter.ptqy.gitv.tv
 ||uccdnct.inter.71edge.com
@@ -145,6 +150,7 @@
 ||mobgslb.tbcache.com
 ||qncdnct.inter.71edge.com
 ||mobgslb.tbcache.com
+||cupid.iqiyi.com/show2*a=qc_100001_*$s@"a":[{"ds":?,"p":??,*:[]}],"inv":@"a":[]}],"inv":@
 
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
