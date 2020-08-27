@@ -141,6 +141,10 @@
 #爱奇艺
 ||tcqcloudcdnct.inter.ptqy.gitv.tv
 ||uccdnct.inter.71edge.com
+||ngaa.net.cn
+||mobgslb.tbcache.com
+||qncdnct.inter.71edge.com
+||mobgslb.tbcache.com
 
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
