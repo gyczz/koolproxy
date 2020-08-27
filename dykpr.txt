@@ -140,6 +140,7 @@
 
 #爱奇艺
 ||tcqcloudcdnct.inter.ptqy.gitv.tv
+||uccdnct.inter.71edge.com
 
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
