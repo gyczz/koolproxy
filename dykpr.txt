@@ -195,7 +195,7 @@
 ||sdkconfig.ad.xiaomi.com
 ||staging.ai.api.xiaomi.com
 ||b.netcheck.gallery.pandora.xiaomi.com
-||||f1.market.xiaomi.com
+||f1.market.xiaomi.com
 ||f2.market.xiaomi.com
 ||f3.market.xiaomi.com
 ||f4.market.xiaomi.com
