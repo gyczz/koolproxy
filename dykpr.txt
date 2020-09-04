@@ -13,7 +13,8 @@
 ||p-l.play.cp81.ott.cibntv.net
 ||sdkconfig.play.cp81.ott.cibntv.net
 ||t-l.play.cp81.ott.cibntv.net
-#tv.qq.com
+#腾讯视频
+||vhotwsh.video.qq.com
 ||aiseet.aa.atianqi.com
 ||dp3.play.aiseet.atianqi.com
 ||livep.l.aiseet.atianqi.com
