@@ -1,5 +1,8 @@
 
 #自定义广告过滤规则by larry
+#芒果tv
+||video.da.mgtv.com
+||pcvideoaliyun.titan.mgtv.com
 #cibn-vst
 ||bkmcgi.play.cp81.ott.cibntv.net
 ||bksdkconfig.play.cp81.ott.cibntv.net
