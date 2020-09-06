@@ -1,5 +1,13 @@
 
 #自定义广告过滤规则by larry
+#youtube#
+*.googlevideo.com
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+
 #芒果tv
 ||video.da.mgtv.com
 ||pcvideoaliyun.titan.mgtv.com
