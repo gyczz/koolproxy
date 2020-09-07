@@ -250,6 +250,14 @@
 ||hotupgrade.hpplay.cn                                                                               
 ||pin.hpplay.cn
 ||hpplay.cdn.cibn.cc
+||sdkauth.hpplay.cn
+||adeng.hpplay.cn
+||ad.hpplay.cn
+||conf.hpplay.cn
+||fix.hpplay.cn
+||adcdn.hpplay.cn
+||sl.hpplay.cn
+||rp.hpplay.cn
 
 ||torkitty.com/images/vpn.gif
 ||torkitty.com/images/msk-close.gif
