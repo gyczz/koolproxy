@@ -7,7 +7,10 @@
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
-
+#cibn聚精彩去广告
+||sltint.adv.ott.cibntv.net
+||log2.cibn.cc
+||api.lion.cibn.cc
 #芒果tv
 ||video.da.mgtv.com
 ||pcvideoaliyun.titan.mgtv.com
