@@ -455,3 +455,4 @@ torrentmaps.com##.hd_pops
 ||vhotwsh.video.qq.com
 ||ltsws.qq.com
 ||ltsbsy.qq.com
+||www.nfmovies.com/static/*
