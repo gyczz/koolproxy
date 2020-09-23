@@ -1,31 +1,194 @@
- # Github
-140.82.114.4 github.com
-140.82.114.9 nodeload.github.com
-140.82.114.5 api.github.com
-140.82.112.18 training.github.com
-140.82.113.10 codeload.github.com
+127.0.0.1 localhost
 
-185.199.108.153 assets-cdn.github.com
-185.199.108.153 documentcloud.github.com
-185.199.108.154 help.github.com
-185.199.108.153 githubstatus.com
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
 
-199.232.69.194 github.global.ssl.fastly.net
-199.232.68.133 raw.github.com
-199.232.68.133 raw.githubusercontent.com
-199.232.68.133 cloud.githubusercontent.com
-199.232.68.133 gist.githubusercontent.com
-199.232.68.133 marketplace-screenshots.githubusercontent.com
-199.232.68.133 repository-images.githubusercontent.com
-199.232.68.133 user-images.githubusercontent.com
-199.232.68.133 desktop.githubusercontent.com
+1.1.1.1 tracker.m-team.cc
+104.26.13.50 tracker.m-team.cc
+104.26.12.50 tracker.m-team.cc
 
-199.232.68.133 avatars0.githubusercontent.com
-199.232.68.133 avatars1.githubusercontent.com
-199.232.68.133 avatars2.githubusercontent.com
-199.232.68.133 avatars3.githubusercontent.com
-199.232.68.133 avatars4.githubusercontent.com
-199.232.68.133 avatars5.githubusercontent.com
-199.232.68.133 avatars6.githubusercontent.com
-199.232.68.133 avatars7.githubusercontent.com
-199.232.68.133 avatars8.githubusercontent.com
+13.224.161.90 api.themoviedb.org
+13.35.7.102 api.themoviedb.org
+13.225.103.26 api.themoviedb.org
+13.226.191.85 api.themoviedb.org
+13.225.103.110 api.themoviedb.org
+52.85.79.89 api.themoviedb.org
+13.225.41.40 api.themoviedb.org
+13.226.251.88 api.themoviedb.org
+13.225.89.239 api.thetvdb.com
+13.249.175.212 api.thetvdb.com
+13.35.161.120 api.thetvdb.com
+13.226.238.76 api.themoviedb.org
+13.224.161.90 api.themoviedb.org
+13.35.7.102 api.themoviedb.org
+13.225.103.26 api.themoviedb.org
+13.226.191.85 api.themoviedb.org
+13.225.103.110 api.themoviedb.org
+52.85.79.89 api.themoviedb.org
+13.225.41.40 api.themoviedb.org
+13.226.251.88 api.themoviedb.org
+13.225.89.239 api.thetvdb.com
+13.249.175.212 api.thetvdb.com
+13.35.161.120 api.thetvdb.com
+
+#灞忚斀涔愭挱
+127.0.0.1 h5.hpplay.com.cn              
+127.0.0.1 sdkauth.hpplay.cn                                                                                    
+127.0.0.1 imdns.hpplay.cn                                                                                       
+127.0.0.1 vipauth.hpplay.cn                                                                                    
+127.0.0.1 rp.hpplay.cn                                                                                          
+127.0.0.1 sl.hpplay.cn                                                                                          
+127.0.0.1 519332DA.rtc.youme.im                                                                                 
+127.0.0.1 hotupgrade.hpplay.                                                                                    
+127.0.0.1 pin.hpplay.cn                                                                                         
+127.0.0.1 tvapp.hpplay.cn                                                        
+127.0.0.1 hpplay.cdn.cibn.cc                                                                                    
+127.0.0.1 image.hpplay.cn                                                                                       
+127.0.0.1 gslb.hpplay.cn                                                                                         
+127.0.0.1 rp.hpplay.cn                                                                                          
+127.0.0.1 cdn.hpplay.com.cn                                                                                    
+127.0.0.1 h5.hpplay.com.cn                                                                                      
+127.0.0.1 adeng.hpplay.cn                                                                  
+127.0.0.1 conf.hpplay.cn                                                                                         
+127.0.0.1 adcdn.hpplay.cn                                                                                       
+127.0.0.1 g.dtv.cn.miaozhen.com                                                                                 
+127.0.0.1 android.bugly.qq.com                                                                                   
+127.0.0.1 alog.umeng.com                                                                                         
+127.0.0.1 hotupgrade.hpplay.cn                                                                                   
+127.0.0.1 pin.hpplay.cn
+127.0.0.1 hpplay.cdn.cibn.cc
+
+#灞忚斀椹厠涓?hosts
+127.0.0.1 xmindchina.net
+127.0.0.1 www.xmindchina.net
+127.0.0.1 www.ntfsformac.cc
+127.0.0.1 www.makeding.com
+127.0.0.1 makeding.com
+127.0.0.1 vm.makeding.com
+127.0.0.1 www.bingdianhuanyuan.cn
+127.0.0.1 xia.bingdianhuanyuan.cn
+127.0.0.1 bingdianhuanyuan.cn
+127.0.0.1 huishenghuiying.com.cn
+127.0.0.1 www.huishenghuiying.com.cn
+127.0.0.1 xia.huishenghuiying.com.cn
+127.0.0.1 coreldrawchina.com
+127.0.0.1 xia.coreldrawchina.com
+127.0.0.1 www.coreldrawchina.com
+127.0.0.1 shankejingling.com
+127.0.0.1 www.shankejingling.com
+127.0.0.1 xia.shankejingling.com
+127.0.0.1 mairuan.com
+127.0.0.1 www.mairuan.com
+127.0.0.1 xia.mairuan.com
+127.0.0.1 logoshejishi.com
+127.0.0.1 www.logoshejishi.com
+127.0.0.1 xia.logoshejishi.com
+127.0.0.1 keyshot.cc
+127.0.0.1 xia.keyshot.cc
+127.0.0.1 www.keyshot.cc
+127.0.0.1 flstudiochina.com
+127.0.0.1 www.flstudiochina.com
+127.0.0.1 xia.flstudiochina.com
+127.0.0.1 ediuschina.com
+127.0.0.1 www.ediuschina.com
+127.0.0.1 xia.ediuschina.com
+127.0.0.1 vegaschina.cn
+127.0.0.1 www.vegaschina.cn
+127.0.0.1 xia.vegaschina.cn
+127.0.0.1 guitarpro.cc
+127.0.0.1 www.guitarpro.cc
+127.0.0.1 xia.guitarpro.cc
+127.0.0.1 www.xmindchina.cn
+127.0.0.1 xia.xmindchina.cn
+127.0.0.1 xmindchina.cn
+127.0.0.1 xmindchina.net
+127.0.0.1 www.xmindchina.net
+127.0.0.1 xia.xmindchina.net
+127.0.0.1 mindmanager.cc
+127.0.0.1 www.mindmanager.cc
+127.0.0.1 xia.mindmanager.cc
+127.0.0.1 kingdeecn.cn
+127.0.0.1 www.kingdeecn.cn
+127.0.0.1 xia.kingdeecn.cn
+127.0.0.1 xshellcn.com
+127.0.0.1 www.xshellcn.com
+127.0.0.1 xia.xshellcn.com
+127.0.0.1 imindmap.cc
+127.0.0.1 www.imindmap.cc
+127.0.0.1 xia.imindmap.cc
+127.0.0.1 abbyychina.com
+127.0.0.1 www.abbyychina.com
+127.0.0.1 xia.abbyychina.com
+127.0.0.1 bartender.cc
+127.0.0.1 www.bartender.cc
+127.0.0.1 xia.bartender.cc
+127.0.0.1 jihehuaban.com.cn
+127.0.0.1 www.jihehuaban.com.cn
+127.0.0.1 xia.jihehuaban.com.cn
+127.0.0.1 mathtype.cn
+127.0.0.1 www.mathtype.cn
+127.0.0.1 xia.mathtype.cn
+127.0.0.1 chemdraw.com.cn
+127.0.0.1 www.chemdraw.com.cn
+127.0.0.1 xia.chemdraw.com.cn
+127.0.0.1 mycleanmymac.com
+127.0.0.1 www.mycleanmymac.com
+127.0.0.1 xia.mycleanmymac.com
+127.0.0.1 ntfsformac.cn
+127.0.0.1 www.ntfsformac.cn
+127.0.0.1 xia.ntfsformac.cn
+127.0.0.1 parallelsdesktop.cn
+127.0.0.1 www.parallelsdesktop.cn
+127.0.0.1 xia.parallelsdesktop.cn
+127.0.0.1 beyondcompare.cc
+127.0.0.1 www.beyondcompare.cc
+127.0.0.1 xia.beyondcompare.cc
+127.0.0.1 easyrecoverychina.com
+127.0.0.1 www.easyrecoverychina.com
+127.0.0.1 xia.easyrecoverychina.com
+127.0.0.1 bingdianhuanyuan.cn
+127.0.0.1 www.bingdianhuanyuan.cn
+127.0.0.1 xia.bingdianhuanyuan.cn
+127.0.0.1 hypersnap.mairuan.com
+127.0.0.1 www.iconworkshop.cn
+127.0.0.1 iconworkshop.cn
+127.0.0.1 www.pdfexpert.cc
+127.0.0.1 xiazai.pdfexpert.cc
+127.0.0.1 www.zhzzx.com
+127.0.0.1 yihuifu.cn
+127.0.0.1 www.4009997658.com
+127.0.0.1 4009997658.com
+127.0.0.1 mairuanwang.com
+127.0.0.1 www.mairuanwang.com
+127.0.0.1 mairuan.com
+127.0.0.1 mairuan.cn
+127.0.0.1 mairuan.net
+127.0.0.1 mairuan.com.cn
+127.0.0.1 flash.cn
+127.0.0.1 www.flash.cn
+127.0.0.1 wm.makeding.com
+
+218.93.127.66 pcbeta.com
+
+218.93.127.66 uc.pcbeta.com
+
+218.93.127.66 m.pcbeta.com
+
+218.93.127.66 mac.pcbeta.com
+
+218.93.127.66 static.template.pcbeta.com
+
+218.93.127.66 web.pcbeta.com
+
+218.93.127.66 i.pcbeta.com
+
+218.93.127.66 bbs.pcbeta.com
+
+218.93.127.66 www.pcbeta.com
+
+218.93.127.66 cdn.pcbeta.attachment.inimc.com
+
+218.93.127.66 cdn.pcbeta.static.inimc.com
+
+218.93.127.66 cdn.pcbeta.css.inimc.com
