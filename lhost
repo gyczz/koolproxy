@@ -4,6 +4,11 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+#onedrive
+13.107.42.13 onedrive.live.com
+40.90.136.179 skyapi.onedrive.live.com
+
+
 1.1.1.1 tracker.m-team.cc
 104.26.13.50 tracker.m-team.cc
 104.26.12.50 tracker.m-team.cc
