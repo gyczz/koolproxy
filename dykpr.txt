@@ -524,3 +524,14 @@ torrentmaps.com##.hd_pops
 |https://www.gangjuw.com/$s@</head>@<script src=https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/KP/hide_w.js></script><script src=https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/KP/hide.js charset=UTF-8></script></head>@
 |https://www.ohmanhua.com/$s@cdn.runative-syndicate.com@1.com@
 !|https://www.onemanhua.com/$s@if(!window.document.querySelectorAll)@//if(!window.document.querySelectorAll)@
+
+#91porn
+||https://fans.91p20.space/fans/*$image
+||poweredby.jads.co^
+91porn.com##.gotop
+91porn.com##body > div:nth-of-type(3)
+91porn.com##[href="pay.php"]
+91porn.com##[href="http://www.91831f.com/"]
+91porn.com##[href="webcam.php"]
+
+||https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js
