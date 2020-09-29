@@ -535,3 +535,6 @@ torrentmaps.com##.hd_pops
 91porn.com##[href="webcam.php"]
 
 ||https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js
+
+baidu.com###s_mancard_main
+baidu.com##.s-mancacrd-main
