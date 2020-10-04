@@ -538,3 +538,7 @@ torrentmaps.com##.hd_pops
 
 baidu.com###s_mancard_main
 baidu.com##.s-mancacrd-main
+##.sidebar-vpn
+||www.torkitty.com/css/images/main-bg.png
+||www.torkitty.com/css/images/bg.png
+||www.torkitty.com/css/images/*bg.png
