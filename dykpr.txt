@@ -543,5 +543,11 @@ baidu.com##.s-mancacrd-main
 ||www.torkitty.com/css/images/bg.png
 ||www.torkitty.com/css/images/*bg.png
 ||http://btbtt.biz/view/image/QT_QT.jpg$image
-||http://btbtt.biz/###wrapper_right_bg
-||http://btbtt.biz/###wrapper_left_bg
+||http://btbtt.biz/##wrapper_right_bg
+||http://btbtt.biz/##wrapper_left_bg
+||shixunjs.th21333.com/qqs.js$script,domain=btbtt.biz
+||http://btbtt.biz/##a#wrapper_right_bg[target="_blank"]
+||http://btbtt.biz/##a#wrapper_left_bg[target="_blank"]
+||http://btbtt.biz/##.error > #qqs
+||btbtt.biz/imgs.js?t=1601884745346$xhr,1p
+||btbtt.biz/view/image/QT_QT.jpg$image,1p
