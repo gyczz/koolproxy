@@ -542,3 +542,6 @@ baidu.com##.s-mancacrd-main
 ||www.torkitty.com/css/images/main-bg.png
 ||www.torkitty.com/css/images/bg.png
 ||www.torkitty.com/css/images/*bg.png
+||http://www.btbtt.co/view/image/QT_QT.jpg$image
+||http://www.btbtt.co###wrapper_right_bg
+||http://www.btbtt.co###wrapper_left_bg
