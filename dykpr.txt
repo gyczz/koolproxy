@@ -550,4 +550,4 @@ baidu.com##.s-mancacrd-main
 ||http://btbtt.biz/##a#wrapper_left_bg[target="_blank"]
 ||http://btbtt.biz/##.error > #qqs
 ||btbtt.biz/imgs.js?t=1601884745346$xhr,1p
-||btbtt.biz/view/image/QT_QT.jpg$image,1p
+||http://btbtt.biz/view/image/QT_QT.jpg
