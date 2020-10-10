@@ -4,6 +4,12 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+#360
+127.0.0.1 sgreennet.com
+127.0.0.1 txvpnpro.com
+127.0.0.1 linkfoxvpn.com
+127.0.0.1 txappnet.com
+
 # Onedrive通用
 13.107.42.12 d.docs.live.net
 13.107.42.12 docs.live.net
