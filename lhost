@@ -209,29 +209,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.flash.cn
 127.0.0.1 wm.makeding.com
 
-218.93.127.66 pcbeta.com
-
-218.93.127.66 uc.pcbeta.com
-
-218.93.127.66 m.pcbeta.com
-
-218.93.127.66 mac.pcbeta.com
-
-218.93.127.66 static.template.pcbeta.com
-
-218.93.127.66 web.pcbeta.com
-
-218.93.127.66 i.pcbeta.com
-
-218.93.127.66 bbs.pcbeta.com
-
-218.93.127.66 www.pcbeta.com
-
-218.93.127.66 cdn.pcbeta.attachment.inimc.com
-
-218.93.127.66 cdn.pcbeta.static.inimc.com
-
-218.93.127.66 cdn.pcbeta.css.inimc.com
 
  # Github
 140.82.114.4 github.com
