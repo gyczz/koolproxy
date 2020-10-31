@@ -551,3 +551,6 @@ baidu.com##.s-mancacrd-main
 ||http://btbtt.biz/##.error > #qqs
 ||btbtt.biz/imgs.js?t=1601884745346$xhr,1p
 ||http://btbtt.biz/view/image/QT_QT.jpg
+
+#dangbei
+||http://imge.dangbei.net/image/20201028/*.jpg
