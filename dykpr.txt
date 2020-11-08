@@ -554,3 +554,4 @@ baidu.com##.s-mancacrd-main
 
 #dangbei
 ||http://imge.dangbei.net/image/20201028/*.jpg
+||http://imge.dangbei.net/image/20201102/*.jpg
