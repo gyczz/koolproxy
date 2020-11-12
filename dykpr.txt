@@ -400,3 +400,4 @@ baidu.com##.s-mancacrd-main
 
 #mangtuo 11.12更新
 ||video.da.mgtv.com
+||https://video.da.mgtv.com
