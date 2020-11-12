@@ -398,5 +398,5 @@ baidu.com##.s-mancacrd-main
 ||http://imge.dangbei.net/image/20201102/*.jpg
 ||vodemp4.dangbei.net
 
-#mangtuo
+#mangtuo 11.12更新
 ||video.da.mgtv.com
