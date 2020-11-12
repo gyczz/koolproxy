@@ -398,36 +398,5 @@ baidu.com##.s-mancacrd-main
 ||http://imge.dangbei.net/image/20201102/*.jpg
 ||vodemp4.dangbei.net
 
-#zhihu
-@@||www.zhihu.com/api/v4^$app=com.zhihu.android
-||android.bugly.qq.com/rqd/async
-||zhihu-web-analytics.zhihu.com/api/v2/cores/begin_end
-||api.zhihu.com/fringe/ad
-||api.zhihu.com/adx/third_sdk_info
-||api.zhihu.com/ad-style-service/request
-||sugar.zhihu.com/adx-log/stats
-||mobads.baidu.com
-||mt.voiceads.cn/sdk/req
-||mobads-logs.baidu.com
-||api.zhihu.com/ab/api/v1/config
-||api.zhihu.com/commercial_api/real_time_second_floor_v2
-||api.zhihu.com/commercial_api/real_time_pull_refresh_v2
-||api.zhihu.com/commercial_api/launch_v2
-||api.zhihu.com/topstory/recommend?session_token=*$replace=/{"id":"AD.*?"type":"feed_advert".*?adjson.*?"ncontent".*?}\,/ /
-
-||api.zhihu.com/topstory/recommend?session_token=*$replace=/{"id":.*?"type":"market_card".*?version.*?}\,/ /
-
-||api.zhihu.com/topstory/recommend$replace=/{"id":.*?"type":"market_card".*?version.*?}\,/ /
-
-||api.zhihu.com/topstory/recommend$replace=/{"action_text".*?adjson.*?"feed_advert"}\,/ /
-
-||api.zhihu.com/topstory/recommend$replace=/{"id":"AD.*?"type":"feed_advert".*?adjson.*?"ncontent".*?}\,/ /
-
-#去除每个问题下插入的广告
-||api.zhihu.com/v4/questions/*/answers$replace=/"ad_info":{.*?}.*?"position".*?}\,/ /
-
-#去除每个回答末尾的广告
-||api.zhihu.com/appview/api/v4/answers/*/recommendations
-
-#去除左上角直播的小红点
-||api.zhihu.com/drama/living-info$replace=/true/false/
+#mangtuo
+||video.da.mgtv.com
