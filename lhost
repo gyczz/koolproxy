@@ -10,6 +10,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 linkfoxvpn.com
 127.0.0.1 txappnet.com
 
+#dangbei
+127.0.0.1 vodemp4.dangbei.net
+
+#mangguo
+127.0.0.1 video.da.mgtv.com
+
 # Onedrive通用
 13.107.42.12 d.docs.live.net
 13.107.42.12 docs.live.net
@@ -260,8 +266,7 @@ ff02::2 ip6-allrouters
 151.101.56.133 raw.githubusercontent.com
 151.101.56.133 repository-images.githubusercontent.com
 151.101.56.133 user-images.githubusercontent.com
-#dangbei
-127.0.0.1 vodemp4.dangbei.net
+
 
 127.0.0.1 share.xjyzhj.com
 127.0.0.1 mod.red
