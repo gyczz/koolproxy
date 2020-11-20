@@ -120,9 +120,6 @@ torrentmaps.com##.hd_pops
 ||mini.eastday.com
 ||fiefsstimate.info
 ||torkitty.com/images/vpn*.gif
-
-
-
 #Xiaomi store
 ||file.market.xiaomi.com
 ||f.market.c.mgslb.com
@@ -231,14 +228,12 @@ torrentmaps.com##.hd_pops
 ||activeqq.3g.qq.com
 ||masdk.3g.qq.com
 ||mini.cpc.sogou.com
-
 ||t1.a.market.xiaomi.com
 ||t2.a.market.xiaomi.com
 ||t3.a.market.xiaomi.com
 ||t4.a.market.xiaomi.com
 ||t5.a.market.xiaomi.com
 ||zeus.ad.xiaomi.com
-
 #cm-adfuture
 ||adfuture.cn
 ||bigdata.adfuture.cn
@@ -256,18 +251,14 @@ torrentmaps.com##.hd_pops
 #cm-advmob
 ||bigdata.advmob.cn
 ||folder.advmob.cn
-
 ||dsp.toutiao.com
 ||s.lofv.xyz
-||alicdn.com
 ||puui.qpic.cn
 98tang.me##.show-text2
 98tang.me##.h10
 98tang.me##.js-randomBg
-
 ||lmbsy.qq.com
 ||vhotwsh.video.qq.com
-
 ||h5.hpplay.com.cn              
 ||sdkauth.hpplay.cn                                                                                    
 ||imdns.hpplay.cn                                                                                       
@@ -297,75 +288,6 @@ torrentmaps.com##.hd_pops
 ||ltsws.qq.com
 ||ltsbsy.qq.com
 ||www.nfmovies.com/static/*.jpg
-
-! --------------------------------------------- white rules ------------------------------------------------------
-! --------------------------------------------- http rules -------------------------------------------------------
-|http://www.dnvod.eu^$s@visibility:visible !important@display:none!important;display:none@
-|http://www.downg.com/$s@<div class="col1">??    <script language="javascript" src="http://g.downg.com/ggao/tj.js"></script>*<div class="col2">@<div class="col1" style="display:none"></div><div class="col2" style="width:698px">@
-|http://www.dy2018.com/$s@<script type="text/javascript">if(goPAGE()=="*)}</script>@@
-|https://www.dy2018.com/$s@<script type="text/javascript">if(goPAGE()=="*)}</script>@@
-|http://www.dyo.gs/$s@AdPop: true,@AdPop: false,@
-|http://www.dysfz.net/$s@<script type="text/javascript" src="http://www.youfumei.com*</script>@@
-|http://www.eyusky.net/$s@window.open(@(@
-|http://www.fantasy.tv/newApp/js/play.js$s@,1000)@,0)@
-|http://www.feemoo.com/fmdown.php$s@var t = 10;@var t = 1;@
-|http://www.fenghuage.com/themes/fenghuage/js/denglu.js$s@function tongji()*function ali728@function xxx@
-|http://www.fenghuaju.cc/images/fhj.js$s@<script src=\"http://vpn.cpva.cc*"></script>@@
-|http://www.fmdisk.com/$s@<script src="http://163.sohu.sina.360sogou-baidu-soso.com:2345/page/?s=*"></script>@@
-|http://www.fmdisk.com/$s@<script src="http://js.csad.cc:99/page/?s=*"></script>@@
-|http://www.fmdisk.com/$s@<script src="http://sina.qq.sohu.baidu-sogou-google.com:1868/page/?s=*"></script>@@
-|http://www.fmdisk.com/ima/ads/ad/$s@$('#down_box*').show();@$('#down_box2').hide();@
-|http://www.fxpan.com/downhtml/$s@clientHeight < 50@clientHeight < 0@
-|http://www.fxpan.com/file/$s@;display:none;">@;">@
-|http://www.fydisk.com/$s@<div id="down_box" style="display:none;">@<div id="down_box">@
-|http://www.fydisk.com/$s@var secs = 10;@var secs = 0;@
-|http://www.fydisk.com/file$s@getId('down_link').innerHTML = "<a href=\"down2-@getId('down_link').innerHTML = "<a href=\"down-@
-|http://www.gaoqingkong.com/$s@<script>/?<![CDATA[?/var strVar1=*</script>@@
-|http://www.gaoqingkong.com/$s@if(divHeight1<10||divHeight2<10)@if(divHeight1<0||divHeight2<0)@
-|http://www.gaoqingkong.com/$s@if(divHeight1<10||divHeight2<10)@if(divHeight1<0||divHeight2<0)@{width:960px;height: 0px;@
-|http://www.gaoxiaobar.com/js/mobile-$s@pictureAd_delay: 1?,@pictureAd_delay: 0,@
-|http://www.gaoxiaobar.com/js/mobile-$s@this.pictureAd_delay = ?;@this.pictureAd_delay = 0;@
-|http://www.gueizu.com/file-$s@var secs = 10;@var secs = 1;@
-|http://www.guidaye.com/css/guidaye.js$s@function sstjnew()*function show_tongji()@function xxx()@
-|http://www.gxnews.com.cn/css/selectColor_2009/style3.css$s@height:445px;@height:145px;@
-|http://www.hanjuwang.com/play/$s@/Main.swf@/Main.swf?plid=7038006&@
-|http://www.haoju*.com/js/play.js$s@var adsTime=??;@var adsTime=0;@
-|http://www.hinews.cn/out/*.js?rnd=$s@function ReadGuanggao*function toLoopAll()@function xxx()@
-|http://www.hao123.com/$s@<div class="tp-content">@<div style="display:none">@
-|http://www.haoju55.com/js/play.js$s@var adsTime=15;@var adsTime=0;@
-|http://www.hdchd.org/$s@<script src="http://js5208.zhudiaosz.com:*</script>@@
-! --------------------------------------------- 以上为了凑够50条 ------------------------------------------------------
-|http://gaoqing.la/wp-content/uploads/*.gif
-|http://pianyuan.la/slade.js
-|http://www.jkpan.cc/$s@document.writeln@//document.writeln@
-! --------------------------------------------- https rules ------------------------------------------------------
-||https://exdynsrv.com
-|https://www.zhms.cn/$s@src="//code1.zhms.cn/*#__ignore"@@
-|https://www.zhms.cn/##[style^="padding-bottom:30px"]
-|https://www.onemanhua.com/js/jquery.cookie.js
-|https://www.feng.com/forum##.ad-list-item,.ad-aside
-|https://btbtt.biz/##[class="width imgs_1"],[id="wrapper_left_bg"],[id="wrapper_right_bg"]
-|https://btbtt.biz/view/image/QT_QT.jpg
-|https://www.jianshu.com/##section.sFiE8U,section.-umr26,a.youdao-flow-ad.clearfix
-|https://m.ahu.cc/Runtime/js/
-|https://www.metvb.cc/template/myhktv/gg
-|https://jsc.adskeeper.co.uk
-|https://www.66s.cc/11.js
-|https://www.6vdy.org/11.js
-|https://www.6vdy.org/###sidebar > div:nth-child(2),#sidebar-follow
-|https://www.cmdy5.com/js/waptbplay*.js
-|https://www.cmdy5.com/js/tj.js
-|https://www.cmdy5.com/js/waptb.js
-|https://www.cmdy5.com/js/shoujiindex.js
-|https://cmdyimg.tjyjj.cn/js/
-||https://wpnsrv.com/
-|https://www.douyu.com/##[id="js-room-activity"],[class="Bottom-ad"],[class="SignBaseComponent-sign-ad"],section.layout-Banner,[class="SignBarrage"]
-! --------------------------------------------- html rules -------------------------------------------------------
-|https://www.yueyuju.com/$s@</head>@<script src=https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/KP/hide_w.js></script><script src=https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/KP/hide.js charset=UTF-8></script></head>@
-|https://www.gangjuw.com/$s@</head>@<script src=https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/KP/hide_w.js></script><script src=https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/KP/hide.js charset=UTF-8></script></head>@
-|https://www.ohmanhua.com/$s@cdn.runative-syndicate.com@1.com@
-!|https://www.onemanhua.com/$s@if(!window.document.querySelectorAll)@//if(!window.document.querySelectorAll)@
-
 #91porn
 ||https://fans.91p20.space/fans/*$image
 ||poweredby.jads.co^
@@ -374,9 +296,7 @@ torrentmaps.com##.hd_pops
 91porn.com##[href="pay.php"]
 91porn.com##[href="http://www.91831f.com/"]
 91porn.com##[href="webcam.php"]
-
 ||https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js
-
 baidu.com###s_mancard_main
 baidu.com##.s-mancacrd-main
 ##.sidebar-vpn
@@ -392,12 +312,10 @@ baidu.com##.s-mancacrd-main
 ||http://btbtt.biz/##.error > #qqs
 ||btbtt.biz/imgs.js?t=1601884745346$xhr,1p
 ||http://btbtt.biz/view/image/QT_QT.jpg
-
 #dangbei
 ||http://imge.dangbei.net/image/20201028/*.jpg
 ||http://imge.dangbei.net/image/20201102/*.jpg
 ||vodemp4.dangbei.net
-
 #mangtuo 11.12更新
 ||video.da.mgtv.com
 ||https://video.da.mgtv.com
