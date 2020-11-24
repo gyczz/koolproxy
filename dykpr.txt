@@ -324,3 +324,4 @@ baidu.com##.s-mancacrd-main
 ||https://ys.da.mgtv.com
 ||s.360.cn
 ||mediav.com
+||pcvideochuangott.titan.mgtv.com
