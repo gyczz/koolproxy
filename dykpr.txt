@@ -323,3 +323,4 @@ baidu.com##.s-mancacrd-main
 ||ott.v1.data.mgtv.com
 ||https://ys.da.mgtv.com
 ||s.360.cn
+||mediav.com
