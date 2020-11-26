@@ -8,6 +8,15 @@
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
 
+#youku
+||mmstat.com^
+||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
+
+#爱奇艺
+||hm.baidu.com^$3p
+||baidu.com/x.js?
+
+
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
 ||pstatp.com
