@@ -15,6 +15,7 @@
 #爱奇艺
 ||hm.baidu.com^$3p
 ||baidu.com/x.js?
+||zz.bdstatic.com^
 
 
 #韩剧TV
@@ -334,3 +335,8 @@ baidu.com##.s-mancacrd-main
 ||s.360.cn
 ||mediav.com
 ||pcvideochuangott.titan.mgtv.com
+
+www.sehuatang.net##a.js-randomBg
+www.sehuatang.net##.show-text2
+www.sehuatang.net##a.js-randomBg
+||cnzz.com^$3p
