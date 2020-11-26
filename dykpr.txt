@@ -9,8 +9,12 @@
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
 ||google.com/pagead/
+||youtube.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
+||youtube.com/ptracking?
+||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/atr
 
 #youku
 ||mmstat.com^
