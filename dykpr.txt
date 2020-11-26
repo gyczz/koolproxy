@@ -1,5 +1,9 @@
 
 #自定义广告过滤规则by larry
+||right.com.cn/forum/static/image/common/logo*.gif
+||qhimg.com/11.0.1.js$script
+||zz.bdstatic.com^
+
 #youtube#
 *.googlevideo.com
 /googleads.$~script,domain=~googleads.github.io
