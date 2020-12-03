@@ -1,5 +1,13 @@
 
 #自定义广告过滤规则by larry
+
+#netlfix
+||nfmovies.com/static/*.jpg
+||naifei.shop^$3p
+||zz.bdstatic.com^
+|me.xdrig.com
+|av1.xdrig.com
+
 ||right.com.cn/forum/static/image/common/logo*.gif
 ||qhimg.com/11.0.1.js$script
 ||zz.bdstatic.com^
