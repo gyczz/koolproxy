@@ -7,6 +7,8 @@
 ||zz.bdstatic.com^
 |me.xdrig.com
 |av1.xdrig.com
+|yb465.app
+|yabo729.com
 
 ||right.com.cn/forum/static/image/common/logo*.gif
 ||qhimg.com/11.0.1.js$script
