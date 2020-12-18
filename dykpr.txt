@@ -353,14 +353,12 @@ baidu.com##.s-mancacrd-main
 ||s.360.cn
 ||mediav.com
 ||pcvideochuangott.titan.mgtv.com
-
 www.sehuatang.net##a.js-randomBg
 www.sehuatang.net##.show-text2
 www.sehuatang.net##a.js-randomBg
 ||cnzz.com^$3p
 ||167.net
 ||kkk167.net
-
 #腾讯视频广告规则
 ||btrace.qq.com
 ||mtrace.qq.com
@@ -417,41 +415,7 @@ www.sehuatang.net##a.js-randomBg
 #爱奇艺广告规则
 ||t7z.cupid.ptqy.gitv.tv
 ||t7z.cupid.iqiyi.com
-#小米广告规则:
-  #小米电视升级屏蔽
-||upgrade.ptmi.gitv.tv
-  #浏览器
-||t1-market-mi-img.yfcdn.net
-||t2-market-mi-img.yfcdn.net
-||sug.browser.miui.com
-||r.browser.miui.com
-||nav.browser.miui.com
-||gma.alicdn.com
-  #小米视频APP广告
-||t2.market.mi-img.com
-||t1.market.mi-img.com
-||t1.a.market.xiaomi.com
-||t2.a.market.xiaomi.com
-  #小米应用商店
-||wtradv.market.xiaomi.com
-||file-market-xiaomi.yfcdn.net
-  #小米遥控器
-||cnbj1.fds.api.xiaomi.com
-  #总框架
-||sdkconfig.ad.xiaomi.com
-||api.ad.xiaomi.com
-||zeus.ad.xiaomi.com
-||cdn.ad.xiaomi.com
-||e.ad.xiaomi.com
-||log.ad.xiaomi.com
-||test.ad.xiaomi.com
-||test.e.ad.xiaomi.com
-||test.zeus.ad.xiaomi.com
-||diagnosis.ad.xiaomi.com
-||abtest.mistat.xiaomi.com
-||m.track.ad.xiaomi.com
-||video.market.xiaomi.com
-||api.tw06.xlmc.sec.miui.com
+
 #FM听书广告规则
  #喜马拉雅
 ||ad.ximalaya.com
