@@ -291,7 +291,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 appstore.cdn.pandora.xiaomi.com
 127.0.0.1 appstore.pandora.xiaomi.com
-127.0.0.1 api.io.mi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 bss.pandora.xiaomi.com
