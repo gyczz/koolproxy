@@ -59,7 +59,7 @@
 ||upgrade.mishop.pandora.xiaomi.com
 ||logonext.tv.kuyun.com
 ||config.kuyun.com
-||api.io.mi.com
+
 ||mishop.pandora.xiaomi.com
 ||dvb.pandora.xiaomi.com
 ||api.ad.xiaomi.com
