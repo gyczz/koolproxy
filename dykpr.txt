@@ -1,6 +1,8 @@
 
 #自定义广告过滤规则by larry
-
+#咪咕
+|https://adsmind.ugdtimg.com^
+||adsmind.ugdtimg.com
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
