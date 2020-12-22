@@ -5,6 +5,7 @@
 ||adsmind.ugdtimg.com^
 ||ugdtimg.com^
 ||ggv.cmvideo.cn^
+||adserver.ad.cmvideo.cn
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
