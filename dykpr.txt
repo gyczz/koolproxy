@@ -4,6 +4,7 @@
 |https://adsmind.ugdtimg.com^
 ||adsmind.ugdtimg.com^
 ||ugdtimg.com^
+||ggv.cmvideo.cn^
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
