@@ -6,6 +6,8 @@
 ||ugdtimg.com
 ||ggv.cmvideo.cn
 ||adserver.ad.cmvideo.cn
+||pgdt.ugdtimg.com
+
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
