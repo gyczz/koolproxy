@@ -14,7 +14,7 @@
 |https://sf*-ttcdn-tos.pstatp.com/*
 |https://v*-dy-g.ixigua.com/*
 
-
+|https://advert.108sq.cn/*
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
