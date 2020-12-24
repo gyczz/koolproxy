@@ -10,6 +10,10 @@
 
 |https://ggx.cmvideo.cn/*
 
+|https://v5-dy-e.ixigua.com/*
+|https://sf*-ttcdn-tos.pstatp.com/*
+
+
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
