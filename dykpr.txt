@@ -8,6 +8,8 @@
 ||adserver.ad.cmvideo.cn
 |https://pgdt.ugdtimg.com/*
 
+|https://ggx.cmvideo.cn/*
+
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
