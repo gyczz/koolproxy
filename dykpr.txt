@@ -1,12 +1,12 @@
 
 #自定义广告过滤规则by larry
 #咪咕
-|https://adsmind.ugdtimg.com^
-||adsmind.ugdtimg.com^
+|https://adsmind.ugdtimg.com/*
+||adsmind.ugdtimg.com/*
 ||ugdtimg.com
 ||ggv.cmvideo.cn
 ||adserver.ad.cmvideo.cn
-|https://pgdt.ugdtimg.com^
+|https://pgdt.ugdtimg.com/*
 
 #netlfix
 ||nfmovies.com/static/*.jpg
