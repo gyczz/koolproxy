@@ -12,6 +12,7 @@
 
 |https://v5-dy-e.ixigua.com/*
 |https://sf*-ttcdn-tos.pstatp.com/*
+|https://v*-dy-g.ixigua.com/*
 
 
 #netlfix
