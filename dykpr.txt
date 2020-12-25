@@ -3,6 +3,11 @@
 
 |https://www.360kuai.com/*
 |https://*.mediav.com/*
+||s.360.cn^
+||qhupdate.com^$3p
+||qhupdate.com^$3p
+||mediav.com^$3p
+
 #咪咕
 |https://adsmind.ugdtimg.com/*
 ||adsmind.ugdtimg.com/*
