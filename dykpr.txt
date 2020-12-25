@@ -2,6 +2,7 @@
 #自定义广告过滤规则by larry
 
 |https://www.360kuai.com/*
+|https://*.mediav.com/*
 #咪咕
 |https://adsmind.ugdtimg.com/*
 ||adsmind.ugdtimg.com/*
