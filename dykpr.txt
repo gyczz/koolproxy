@@ -14,7 +14,9 @@
 ||qhupdate.com^$3p
 ||mediav.com^$3p
 
+
 #咪咕
+
 |https://adsmind.ugdtimg.com/*
 ||adsmind.ugdtimg.com/*
 ||ugdtimg.com
@@ -31,6 +33,7 @@
 #108
 |https://advert.108sq.cn
 |https://*.m.taobao.com
+||*-be-pack.pglstatp-toutiao.com
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
