@@ -26,9 +26,11 @@
 |https://v5-dy-e.ixigua.com
 |https://*-ttcdn-tos.pstatp.com
 |https://*-dy-g.ixigua.com
-|https://advert.108sq.cn
 |https://*.ixigua.com
 
+#108
+|https://advert.108sq.cn
+|https://*.m.taobao.com
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
