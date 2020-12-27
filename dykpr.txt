@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2020-12-26 22:45
-!x  -----update[video]: 2020-12-26 22:00
+!x  -----update[rules]: 2020-12-27 22:45
+!x  -----update[video]: 2020-12-27 22:00
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
@@ -22,11 +22,12 @@
 ||adserver.ad.cmvideo.cn
 |https://pgdt.ugdtimg.com/*
 #抖音
-|https://ggx.cmvideo.cn/*
-|https://v5-dy-e.ixigua.com/*
-|https://sf*-ttcdn-tos.pstatp.com/*
-|https://v*-dy-g.ixigua.com/*
-|https://advert.108sq.cn/*
+|https://ggx.cmvideo.cn
+|https://v5-dy-e.ixigua.com
+|https://*-ttcdn-tos.pstatp.com
+|https://*-dy-g.ixigua.com
+|https://advert.108sq.cn
+|https://*.ixigua.com
 
 #netlfix
 ||nfmovies.com/static/*.jpg
