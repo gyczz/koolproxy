@@ -7,9 +7,9 @@
 #自定义广告过滤规则by larry
 
 ||startcrack.com/wp-content/uploads/*
-|https://www.360kuai.com/*
-|https://*.mediav.com/*
-||s.360.cn^
+|https://www.360kuai.com
+|https://*.mediav.com
+||s.360.cn
 ||qhupdate.com^$3p
 ||qhupdate.com^$3p
 ||mediav.com^$3p
