@@ -6,6 +6,8 @@
 
 #自定义广告过滤规则by larry
 
+#xiaomi
+||api.miwifi.com  
 
 |https://lmbsy.qq.com
 ||startcrack.com/wp-content/uploads/*
