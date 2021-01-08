@@ -9,7 +9,7 @@ read -p '欢迎使用玩客云armbian 甜糖CDN自动部署程序
 
 请输入邀请码 888 开始自动部署：' number
  
-if [ $number = 587888 ];then
+if [ $number = 888 ];then
 	echo "输入正确，开始部署！"         
 	cp -pdr /etc/rc.local /etc/rc.local.default
 	cp -pdr /etc/crontab /etc/crontab.default
