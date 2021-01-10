@@ -19,7 +19,6 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 |https://p*-tt-ipv6.byteimg.com
 |https://p*-tt.byteimg.com
 ||qurl.f.360.cn
-|https://www.nfmovies.com/js/play.js*
 ||aiyoubet92.com
 
 
