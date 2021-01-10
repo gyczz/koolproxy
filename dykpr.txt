@@ -1,10 +1,20 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-1-8 14:25
-!x  -----update[video]: 2021-1-8 14:00
+!x  -----update[rules]: 2021-1-10 14:25
+!x  -----update[video]: 2021-1-10 14:00
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
+
+#nfmovies
+||nfmovies.com/static/*.jpg
+nfmovies.com###sponsorAdDiv2
+nfmovies.com##+js(abort-on-property-read, Fingerprint2)
+||zz.bdstatic.com^
+||cnzz.com^$3p
+||nfmovies.com/pic/tu/banner
+||naifei.shop^$3p
+||googletagmanager.com^
 
 #xiaomi
 ||api.miwifi.com  
