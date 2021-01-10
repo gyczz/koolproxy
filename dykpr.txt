@@ -18,7 +18,7 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 |https://jx.nfmovies.com
 |https://p*-tt-ipv6.byteimg.com
 |https://p*-tt.byteimg.com
-
+||qurl.f.360.cn
 
 
 #xiaomi
