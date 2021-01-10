@@ -16,6 +16,7 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 ||naifei.shop^$3p
 ||googletagmanager.com^
 
+
 #xiaomi
 ||api.miwifi.com  
 
