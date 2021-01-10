@@ -21,7 +21,7 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 ||qurl.f.360.cn
 |https://www.nfmovies.com/js/play.js*
 ||aiyoubet92.com
-|https://www.nfmovies.com/js/player/m3u8.html*
+
 
 #xiaomi
 ||api.miwifi.com  
