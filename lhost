@@ -10,7 +10,9 @@
 127.0.0.1 linkfoxvpn.com
 127.0.0.1 txappnet.com
 127.0.0.1 p3.ssl.qhimgs0.com
-
+#xiaomi
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
 
 #dangbei
 127.0.0.1 vodemp4.dangbei.net
