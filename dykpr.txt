@@ -1,10 +1,13 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-1-18 14:25
-!x  -----update[video]: 2021-1-18 14:00
+!x  -----update[rules]: 2021-1-24 9:25
+!x  -----update[video]: 2021-1-24 9:00
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
+#xiaomitv
+||api.ad.xiaomi.com
+||t7z.cupid.ptqy.gitv.tv
 #right.com
 www.right.com.cn##.a_mu
 ||hm.baidu.com^$3p
