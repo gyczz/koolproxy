@@ -19,7 +19,7 @@
 ||govjiangsu.cn^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
 ||https://govjiangsu.cn
-
+||haowui.com
 #xiaomitv
 ||api.ad.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv
