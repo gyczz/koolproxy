@@ -8,6 +8,11 @@
 |https://www.danke.com
 ||jpg.meitaixianlan.com 
 ||viptengxun.zzcmjn.com
+||j.sdqoi2d.com
+||pv.dakawm.cc:12443
+||show.govjiangsu.cn:12443
+||1988.a.dlads.cn
+
 #xiaomitv
 ||api.ad.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv
