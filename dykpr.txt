@@ -6,12 +6,15 @@
 
 #自定义广告过滤规则by larry
 |https://www.danke.com
-||jpg.meitaixianlan.com 
-||viptengxun.zzcmjn.com
-||j.sdqoi2d.com
-||pv.dakawm.cc:12443
-||show.govjiangsu.cn:12443
-||1988.a.dlads.cn
+|https://jpg.meitaixianlan.com 
+|https://viptengxun.zzcmjn.com
+|https://j.sdqoi2d.com
+|https://pv.dakawm.cc
+|https://show.govjiangsu.cn
+|https://1988.a.dlads.cn
+|https://qqwx.zhangguangzong.com
+|https://pic1.iqiyipic.com
+
 
 #xiaomitv
 ||api.ad.xiaomi.com
