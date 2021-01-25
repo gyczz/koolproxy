@@ -5,15 +5,14 @@
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
-|https://www.danke.com
-|https://jpg.meitaixianlan.com 
-|https://viptengxun.zzcmjn.com
-|https://j.sdqoi2d.com
-|https://pv.dakawm.cc
-|https://show.govjiangsu.cn
-|https://1988.a.dlads.cn
-|https://qqwx.zhangguangzong.com
-|https://pic1.iqiyipic.com
+||https://danke.com
+||https://meitaixianlan.com 
+||https://zzcmjn.com
+||https://sdqoi2d.com
+||https://dakawm.cc
+||https://dlads.cn
+||https://zhangguangzong.com
+||https://iqiyipic.com
 ||cnzz.com^$3p
 ||sdqoi2d.com
 ||dlads.cn^$3p
