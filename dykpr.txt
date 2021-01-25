@@ -19,6 +19,7 @@
 ||dlads.cn^$3p
 ||govjiangsu.cn^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
+|https://show.govjiangsu.cn
 
 #xiaomitv
 ||api.ad.xiaomi.com
