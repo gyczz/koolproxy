@@ -5,6 +5,7 @@
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
+|https://www.danke.com
 #xiaomitv
 ||api.ad.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv
