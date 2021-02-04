@@ -5,6 +5,12 @@
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
+www.98awwyou21.xyz##a.js-randomBg:nth-of-type(*)
+www.98awwyou21.xyz##div.cl.show-text:nth-of-type(*)
+www.98awwyou21.xyz##.show-text*
+www.98awwyou21.xyz##div.cl.show-text:nth-of-type(*)
+www.98awwyou21.xyz##.show-text*
+www.98awwyou21.xyz##.pad-tb-10.show-text*
 ||startcrack.com/wp-content/uploads/2018/05/sidebar-banner.jpg
 ||https://danke.com
 ||https://meitaixianlan.com 
