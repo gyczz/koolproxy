@@ -52,11 +52,8 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 |https://p*-tt.byteimg.com
 ||qurl.f.360.cn
 ||aiyoubet92.com
-
-
 #xiaomi
 ||api.miwifi.com  
-
 |https://lmbsy.qq.com
 ||startcrack.com/wp-content/uploads/*
 |https://www.360kuai.com
@@ -66,10 +63,7 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 ||qhupdate.com^$3p
 ||mediav.com^$3p
 ||regou55.com
-
-
 #咪咕
-
 |https://adsmind.ugdtimg.com/*
 ||adsmind.ugdtimg.com/*
 ||ugdtimg.com
@@ -82,7 +76,6 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 |https://*-ttcdn-tos.pstatp.com
 |https://*-dy-g.ixigua.com
 |https://*.ixigua.com
-
 #108
 |https://advert.108sq.cn
 |https://*.m.taobao.com
@@ -95,11 +88,9 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 |av1.xdrig.com
 |yb465.app
 |yabo729.com
-
 ||right.com.cn/forum/static/image/common/logo*.gif
 ||qhimg.com/11.0.1.js$script
 ||zz.bdstatic.com^
-
 #youtube#
 *.googlevideo.com
 /googleads.$~script,domain=~googleads.github.io
@@ -111,17 +102,13 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 ||youtube.com/ptracking?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/api/stats/atr
-
 #youku
 ||mmstat.com^
 ||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-
 #爱奇艺
 ||hm.baidu.com^$3p
 ||baidu.com/x.js?
 ||zz.bdstatic.com^
-
-
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
 ||pstatp.com
@@ -134,7 +121,6 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 ||fancyapi.com
 ||v.admaster.com.cn
 ||qiyipic.com
-
 #投屏广告域名：
 ||sdkauth.hpplay.cn
 ||adeng.hpplay.cn
@@ -175,7 +161,6 @@ nfmovies.com##+js(abort-on-property-read, Fingerprint2)
 ||adcdn.hpplay.cn
 ||sl.hpplay.cn
 ||rp.hpplay.cn
-
 ||torkitty.com/images/vpn.gif
 ||torkitty.com/images/msk-close.gif
 ||right.com.cn/forum/static/image/common/logo4.gif
@@ -193,7 +178,6 @@ torrentmaps.com##.hd_pops
 ||mini.eastday.com
 ||fiefsstimate.info
 ||torkitty.com/images/vpn*.gif
-
 ||api.ra2.xlmc.sec.miui.com
 ||api.tuisong.baidu.com
 ||api.tw06.xlmc.sec.miui.com
