@@ -5,6 +5,11 @@
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
+||th21333.com
+btbtt.biz##a#wrapper_right_bg[target="_blank"]
+btbtt.biz##a#wrapper_left_bg[target="_blank"]
+btbtt.biz##.error > #qqs
+||js.users.51.la
 www.98awwyou21.xyz##a.js-randomBg:nth-of-type(*)
 www.98awwyou21.xyz##div.cl.show-text:nth-of-type(*)
 www.98awwyou21.xyz##.show-text*
