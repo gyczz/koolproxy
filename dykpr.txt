@@ -5,6 +5,7 @@
 !x  -----update by larry
 
 #自定义广告过滤规则by larry
+||www.right.com.cn/forum/static/image/common/logo2.gif
 ||th21333.com
 btbtt.biz##a#wrapper_right_bg[target="_blank"]
 btbtt.biz##a#wrapper_left_bg[target="_blank"]
