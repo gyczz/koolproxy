@@ -1,10 +1,10 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
 !x  -----update[rules]: 2021-2-12 14:25
-!x  -----update[video]: 2021-2-12 9:00
+!x  -----update[video]: 2021-2-17 9:00
 !x  -----update by larry
 
-#自定义广告过滤规则by larry
+||https://vhotwsh.video.qq.com
 ||https://caihong52.com
 ||www.right.com.cn/forum/static/image/common/logo2.gif
 ||th21333.com
