@@ -3,6 +3,10 @@
 !x  -----update[rules]: 2021-2-12 14:25
 !x  -----update[video]: 2021-2-17 9:00
 !x  -----update by larry
+#nfmovies
+|https://www.nfmovies.com/playg_pause.html
+|https://www.nfmovies.com/playg.html
+|https://www.nfmovies.com/static/*.png
 |https://adsmind.ugdtimg.com
 |https://ugdtimg.com
 ||https://vhotwsh.video.qq.com
