@@ -7,6 +7,8 @@
 |https://www.nfmovies.com/playg_pause.html
 |https://www.nfmovies.com/playg.html
 |https://www.nfmovies.com/static/*.png
+|https://ayx200.com
+
 |https://adsmind.ugdtimg.com
 |https://ugdtimg.com
 ||https://vhotwsh.video.qq.com
