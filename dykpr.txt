@@ -1,8 +1,22 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-2-12 14:25
-!x  -----update[video]: 2021-2-17 9:00
+!x  -----update[rules]: 2021-3-2 14:25
+!x  -----update[video]: 2021-3-2 9:00
 !x  -----update by larry
+
+#xiaomi
+ad.mi.com
+ad.xiaomi.com
+cdn.ad.xiaomi.com
+log.ad.xiaomi.com
+api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+o2o.api.xiaomi.com
+gallery.pandora.xiaomi.com
+mishop.pandora.xiaomi.com
+upgrade.mishop.pandora.xiaomi.com
+mitv.tracking.miui.com
+
 #nfmovies
 |https://www.nfmovies.com/playg_pause.html
 |https://www.nfmovies.com/playg.html
