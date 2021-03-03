@@ -1,5 +1,9 @@
 
 ##########################
+#冬瓜影视
+127.0.0.1 myqcloud.com
+127.0.0.1 dpff.in
+
 #韩剧tv
 127.0.0.1 adsmind.ugdtimg.com
 
@@ -17,6 +21,63 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad.mi.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 appstore.cdn.pandora.xiaomi.com
+127.0.0.1 appstore.pandora.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
+127.0.0.1 broker.mqtt.pandora.xiaomi.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 device.io.mi.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 f3.market.xiaomi.com
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 f1.market.mi-img.com
+127.0.0.1 f2.market.mi-img.com
+127.0.0.1 f3.market.mi-img.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f5.market.mi-img.com
+127.0.0.1 file.xmpush.xiaomi.com
+127.0.0.1 gvod.aiseejapp.atianqi.com
+127.0.0.1 g.dtv.cn.miaozhan.com
+127.0.0.1 gallery.pandora.xiaomi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 mishop.pandora.xiaomi.com
+127.0.0.1 milink.pandora.xiaomi.com
+127.0.0.1 misc.pandora.xiaomi.com
+127.0.0.1 mitv.tracking.miui.com
+127.0.0.1 metok.sys.miui.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com.lan
+127.0.0.1 package.box.xiaomi.com
+127.0.0.1 pandora.mi.com
+127.0.0.1 redirect.pandora.xiaomi.com
+127.0.0.1 register.xmpush.xiaomi.com
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 r.browser.miui.com
+127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 staging.ai.api.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tv.weixin.pandora.xiaomi.com
+127.0.0.1 tvmanager.pandora.xiaomi.com
+127.0.0.1 tvmgr.pandora.xiaomi.com
+127.0.0.1 tat.pandora.xiaomi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1 v.admaster.com.cn
 
 
 #dangbei
