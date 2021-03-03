@@ -4,6 +4,8 @@
 !x  -----update[video]: 2021-3-2 9:00
 !x  -----update by larry
 
+|https://myqcloud.com
+
 #xiaomi
 ad.mi.com
 ad.xiaomi.com
