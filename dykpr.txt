@@ -399,6 +399,7 @@ www.sehuatang.net##a.js-randomBg
 ||167.net
 ||kkk167.net
 #腾讯视频广告规则
+||*vlive.qqvideo.tc.qq.com
 ||btrace.qq.com
 ||mtrace.qq.com
 ||ulogs.umengcloud.com
