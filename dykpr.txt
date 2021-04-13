@@ -4,6 +4,7 @@
 !x  -----update[video]: 2021-4-12 10:00
 !x  -----update by larry
 
+||rpt.gdt.qq.com
 #youku
 ||vali-g1.cp31.ott.cibntv.net
 |https://ngaa.net.cn
