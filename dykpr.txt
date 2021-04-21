@@ -8,12 +8,10 @@
 
 #韩剧tv
 ||adsmind.updtimg.com
-||vdnpicc.cdn.51touxiang.com
 ||pgdt.updtimg.com
-|https://ossgw.alicdn.com/
+|https://ossgw.alicdn.com
 ||ejcop.com
 ||ef-dongfeng.tanx.com
-||vdnpicc.cdn.51touxiang.com
 ||df.tanx.com
 ||beacon-api.aliyuncs.com
 ||adash.man.aliyuncs.com
