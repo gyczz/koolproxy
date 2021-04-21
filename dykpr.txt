@@ -20,6 +20,10 @@
 ||realsrv.com
 ||hellobar.com
 ||rpt.gdt.qq.com
+
+||canvas.gdt.qq.com
+||raddus.bayescom.com
+
 #youku
 ||vali-g1.cp31.ott.cibntv.net
 |https://ngaa.net.cn
