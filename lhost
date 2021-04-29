@@ -1,5 +1,22 @@
 
 ##########################
+
+#屏蔽电视机收集隐私
+127.0.0.1 gz-data.com
+127.0.0.1 gzads.com
+127.0.0.1 gozendata.com
+127.0.0.1 emar.com
+127.0.0.1 onemob.mobi
+127.0.0.1 reyun.com
+127.0.0.1 71360.com
+127.0.0.1 zhihuiyun.net.cn
+127.0.0.1 chance-ad.com
+127.0.0.1 nequal.cn
+127.0.0.1 n1q.cn
+127.0.0.1 nequal.com
+127.0.0.1 ad7.com
+127.0.0.1 gd.xinhuanet.com
+127.0.0.1 lqcdn.dangbei.net
 #腾讯视频
 127.0.0.1 61.174.245.159
 127.0.0.1 vlive.qqvideo.tc.qq.com
