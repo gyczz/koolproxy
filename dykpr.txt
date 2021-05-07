@@ -5,7 +5,7 @@
 !x  -----update by larry
 
 #西瓜
-||v*.xsj.wasu.tv
+||v5.xsj.wasu.tv
 
 #屏蔽电视机收集隐私
 ||gz-data.com
