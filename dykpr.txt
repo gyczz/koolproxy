@@ -6,7 +6,7 @@
 
 #西瓜
 ||v*.xsj.wasu.tv
-||xsj.wasu.tv
+
 #屏蔽电视机收集隐私
 ||gz-data.com
 ||gzads.com
