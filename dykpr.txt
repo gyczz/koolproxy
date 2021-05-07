@@ -39,9 +39,10 @@
 ||realsrv.com
 ||hellobar.com
 ||rpt.gdt.qq.com
-
+||https://mi.gdt.qq.com
 ||canvas.gdt.qq.com
 ||raddus.bayescom.com
+||imgcache.qq.com
 
 #youku
 ||vali-g1.cp31.ott.cibntv.net
