@@ -27,7 +27,7 @@
 ||lqcdn.dangbei.net
 
 #韩剧tv
-||vdnpicc.cdn.51touxiang.com
+
 ||static.hanju.koudaibaobao.com
 ||adsmind.updtimg.com
 ||pgdt.updtimg.com
