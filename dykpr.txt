@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-4-29 9:25
-!x  -----update[video]: 2021-5-7 10:00
+!x  -----update[rules]: 2021-5-23 9:25
+!x  -----update[video]: 2021-5-23 10:00
 !x  -----update by larry
 
 #西瓜
@@ -27,6 +27,7 @@
 ||lqcdn.dangbei.net
 
 #韩剧tv
+||vdnpicc.cdn.51touxiang.com
 ||static.hanju.koudaibaobao.com
 ||adsmind.updtimg.com
 ||pgdt.updtimg.com
