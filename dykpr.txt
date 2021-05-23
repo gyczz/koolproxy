@@ -8,6 +8,7 @@
 ||v3.xsj.wasu.tv
 ||v5.xsj.wasu.tv
 ||v6.xsj.wasu.tv
+||v1.xsj.wasu.tv
 
 #屏蔽电视机收集隐私
 ||gz-data.com
