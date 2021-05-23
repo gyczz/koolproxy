@@ -27,7 +27,7 @@
 ||lqcdn.dangbei.net
 
 #韩剧tv
-||api.hanju.koudaibaobao.com
+
 ||raddus.bayescom.com
 ||51touxiang.com
 ||static.hanju.koudaibaobao.com
