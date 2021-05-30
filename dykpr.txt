@@ -29,8 +29,6 @@
 
 #韩剧tv
 
-||raddus.bayescom.com
-
 ||static.hanju.koudaibaobao.com
 ||adsmind.updtimg.com
 ||pgdt.updtimg.com
@@ -52,7 +50,6 @@
 ||pis.alicdn.com
 ||proxy-tel-cld.alicdn.com
 
-||vdnpicc.cdn.51touxiang.com
 
 #youku
 ||vali-g1.cp31.ott.cibntv.net
