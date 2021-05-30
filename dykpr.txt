@@ -47,8 +47,7 @@
 ||canvas.gdt.qq.com
 ||raddus.bayescom.com
 ||imgcache.qq.com
-||pis.alicdn.com
-||proxy-tel-cld.alicdn.com
+
 
 
 #youku
