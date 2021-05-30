@@ -49,6 +49,10 @@
 ||canvas.gdt.qq.com
 ||raddus.bayescom.com
 ||imgcache.qq.com
+||pis.alicdn.com
+||proxy-tel-cld.alicdn.com
+||api.hanju.koudaibaobao.com
+||vdnpicc.cdn.51touxiang.com
 
 #youku
 ||vali-g1.cp31.ott.cibntv.net
