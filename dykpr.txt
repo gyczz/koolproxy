@@ -51,7 +51,7 @@
 ||imgcache.qq.com
 ||pis.alicdn.com
 ||proxy-tel-cld.alicdn.com
-||api.hanju.koudaibaobao.com
+
 ||vdnpicc.cdn.51touxiang.com
 
 #youku
